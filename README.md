@@ -9,8 +9,6 @@ This project presents a detailed financial performance analysis of ABC Ltd. usin
 The objective of this analysis was to evaluate the financial performance of ABC Ltd. and uncover opportunities for strategic improvement. 
 The dataset includes key financial metrics across multiple quarters such as Sales, Profit, COGS, Discounts, Product Segments, and Countries of Operation.  
 
----
-
 ## 💡 Why This Project Is Useful  
 Understanding financial health is critical for making informed business decisions. This analysis helps:
 - Identify profitable products and regions
